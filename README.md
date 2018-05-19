@@ -159,3 +159,6 @@
 最终优化版本，里面采用了transform做动画，开启了硬件加速，如果把translate转换成矩阵，进行了深度的优化
 ```
 ![image.png](https://upload-images.jianshu.io/upload_images/6264932-5407388b883a5b01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+##关于重排重绘的知识点可以查看我的简书
+https://www.jianshu.com/p/4c9d91277172
